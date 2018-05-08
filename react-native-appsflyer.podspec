@@ -16,4 +16,3 @@ Pod::Spec.new do |s|
   s.dependency 'React/Core'
   s.dependency 'AppsFlyerFramework', '~> 4.8.4'
 end
->>>>>>> upstream/master
